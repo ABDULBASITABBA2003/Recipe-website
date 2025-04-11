@@ -60,8 +60,8 @@ This project is a responsive recipe website using data from TheMealDB API. API i
 [Presentation Link]()
 
 ## Author
-Name: []
-Contact: [@gmail.com]
+Name: [Abdulbasit Abba Labaran]
+Contact: [abdulbasitabba16@gmail.com]
  [[Github Profile](https://github.com/ABDULBASITABBA2003)]
 
 ## License
