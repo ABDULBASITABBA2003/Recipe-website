@@ -7,7 +7,7 @@ const displayMeals = (meals) => {
         const mealCard = document.createElement('div');
         mealCard.classList.add('col-md-4', 'meal-card');
 
-        // Truncate the instructions to a certain length and add '......'
+        // Truncate the instructions to a certain length and add '...'
         const truncatedInstructions = truncateText(meal.strInstructions, 150); // Adjust the length as needed
 
         mealCard.innerHTML = `
