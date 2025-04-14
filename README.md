@@ -65,4 +65,4 @@ Contact: [abdulbasitabba16@gmail.com]
  [[Github Profile](https://github.com/ABDULBASITABBA2003)]
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
